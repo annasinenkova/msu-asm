@@ -1,0 +1,15 @@
+mode=test
+screen=no
+init_volume=15
+max_iters=300
+max_valueless_iters=300
+quality_eps=0.000001
+enough_func_value=-0.04263
+pres_high=5
+#pres_high=90
+pres_low=5
+selection_method=roulette
+cross_method=single
+mutation_method=changing
+cross_size=15
+mutation_size=15
